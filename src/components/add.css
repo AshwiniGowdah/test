@@ -1,0 +1,32 @@
+.button {
+  display: inline-flex;
+  height: 60px;
+  width: 60px;
+  padding: 5px 10px;
+  background: #009578;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  overflow: hidden;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  text-align: center;
+  vertical-align: middle;
+  position:relative;
+  float:right;
+}
+    
+
+.button:hover{
+    background: whitesmoke;
+      
+      
+    }
+    
+
+
+.button:active{
+  background: whitesmoke;
+}
+
